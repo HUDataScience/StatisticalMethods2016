@@ -3,7 +3,7 @@ Humboldt Universitaet zu Berlin Class of Statistical Methods (Prof. Dr. Marek Ko
 
 # Description of the class
 
-## Python Information
+#### Python Information
 In Class we will use Python to apply the Statistical Methods on data.
 
 If you do not already have python (open a terminal and try `ipython`),
@@ -12,7 +12,7 @@ download everything from
 currently prefereed.
 
 
-## Git
+#### Git
 For the Linux/OSX users, the best is to use the git command lines
 (`git clone` / `git add` / `git commit` / `git push` / `git pull`)
 
