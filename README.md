@@ -28,15 +28,6 @@ _More To Be Done_
 - Dr. Mickael Rigault
 - Dr. Jakob Nordin
 
-# Students
-- Andreas Looft
-- Oruç Kahriman
-- Sven Lubeck
-- Clea Peter
-- Georg Krey
-- Sascha Peitzsch
-- Eric Prerchel(?)
-- Jan-Philipp Kelting
 
 # Lessons
 
