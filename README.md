@@ -31,15 +31,5 @@ _More To Be Done_
 
 # Lessons
 
-### Lesson 2
-
-* Time: 3*45min
-   * **Plot Tools**
-   * **Vectors and matrices in Python**
-   * **Basic of programming**
-   * **introduction of git for shared repository**
-
-Know how to create and visualize random dataset. scatter plot, histogram
-Measure mean, nmad, median , std, covariance.
-
+see our [website](http://hudatascience.github.io/)
 
