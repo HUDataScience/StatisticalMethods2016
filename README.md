@@ -29,7 +29,7 @@ _More To Be Done_
 - Dr. Jakob Nordin
 
 
-# Lessons
+# Website
 
 see our [website](http://hudatascience.github.io/)
 
