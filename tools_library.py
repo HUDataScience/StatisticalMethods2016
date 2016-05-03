@@ -26,10 +26,3 @@ def printer(x):
     print(x)
 
 
-
-
-def get_dice(size=None):
-    """ this returns a value between 1 and 6"""
-    
-    return np.random.randint(1,7,size=size)
-
